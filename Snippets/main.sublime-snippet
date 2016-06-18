@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[def main(args: Array[String]): Unit = {
+  $1
+}
+]]></content>
+  <description>main</description>
+  <scope>source.scala</scope>
+  <tabTrigger>main</tabTrigger>
+</snippet>

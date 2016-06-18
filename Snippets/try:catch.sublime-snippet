@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[try { 
+  ${1:// ...}
+} catch {
+  case e: Exception => $0
+}]]></content>
+  <description>try/catch</description>
+  <scope>source.scala</scope>
+  <tabTrigger>try</tabTrigger>
+</snippet>

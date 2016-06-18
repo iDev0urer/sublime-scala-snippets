@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[case ${1:_} => ${0}]]></content>
+  <description>case</description>
+  <scope>source.scala</scope>
+  <tabTrigger>case</tabTrigger>
+</snippet>

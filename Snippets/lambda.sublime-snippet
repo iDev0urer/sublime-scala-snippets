@@ -1,0 +1,7 @@
+<snippet>
+  <bundleUUID>452017E8-0065-49EF-AB9D-7849B27D9367</bundleUUID>
+  <content><![CDATA[($1) => ${2:{${3:}\}}]]></content>
+  <description>lambda</description>
+  <scope>source.scala</scope>
+  <tabTrigger>lam</tabTrigger>
+</snippet>
